@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Car Radio",
+  "base_artist": "twenty one pilots",
+  "createdAt": "2026-02-16T09:02:54.668500Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mint Car (Radio Mix)",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/01_Mint_Car_(Radio_Mix)_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Car Radio",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/02_Car_Radio_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Car Radio",
+      "artist": "Spoon",
+      "has_synced": true,
+      "path": "select/03_Car_Radio_Spoon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Saturday / Level of Concern / Ride / Car Radio - Livestream Version",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/04_Saturday___Level_of_Concern___Ride___Car_Radio_-_Livestream_Version_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Car Radio",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/05_Car_Radio_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Car Radio",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/06_Car_Radio_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Car Radio - Live at the Newport Music Hall",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/07_Car_Radio_-_Live_at_the_Newport_Music_Hall_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Car Radio (Live at the Newport Music Hall)",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/08_Car_Radio_(Live_at_the_Newport_Music_Hall)_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Car Radio - Live from SXSW",
+      "artist": "Twenty One Pilots",
+      "has_synced": false,
+      "path": "select/09_Car_Radio_-_Live_from_SXSW_Twenty_One_Pilots.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Saturday \u0000 Level of Concern \u0000 Ride \u0000 Car Radio (Livestream Version)",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/10_Saturday_\u0000_Level_of_Concern_\u0000_Ride_\u0000_Car_Radio_(Livestream_Version)_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fast Car - Radio Edit",
+      "artist": "Jonas Blue feat. Dakota",
+      "has_synced": true,
+      "path": "select/11_Fast_Car_-_Radio_Edit_Jonas_Blue_feat._Dakota.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fast Car (Radio Edit)",
+      "artist": "Jonas Blue ft. Dakota",
+      "has_synced": true,
+      "path": "select/12_Fast_Car_(Radio_Edit)_Jonas_Blue_ft._Dakota.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fast Car [Radio Edit]",
+      "artist": "Jonas Blue Feat. Dakota",
+      "has_synced": true,
+      "path": "select/13_Fast_Car_[Radio_Edit]_Jonas_Blue_Feat._Dakota.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Car Radio / Heathens (MTV Unplugged) [Live]",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/14_Car_Radio___Heathens_(MTV_Unplugged)_[Live]_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Car Radio ⁄ Heathens",
+      "artist": "Twenty One Pilots",
+      "has_synced": false,
+      "path": "select/15_Car_Radio_⁄_Heathens_Twenty_One_Pilots.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Car Radio",
+      "artist": "Twenty One Pilots",
+      "has_synced": false,
+      "path": "select/pl_01_Car_Radio_Twenty_One_Pilots.txt"
+    }
+  ]
+}
